@@ -12,6 +12,8 @@ A plugin to easily and quickly integrate the Labs Media Clickheat tracking syste
 
 A plugin to easily and quickly integrate the Labs Media Clickheat tracking system in your Wordpress site.
 
+
+
 == Installation ==
 
 Clickheat Install
